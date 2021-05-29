@@ -1,2 +1,6 @@
 [
+  {
+    "repository":  "android_kernel_motorola_potter",
+    "target_path": "kernel/motorola/potter"
+  }
 ]
